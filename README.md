@@ -5,4 +5,4 @@
 - 本地修改代码，开发
 - 推送到自己的仓库项目中去
 - 进入你的仓库的项目页面，点击 New pull request 按钮
-- 点击create pull request,填写信息，完成。
+- 点击create pull request,填写信息，点击create pull request 完成。
